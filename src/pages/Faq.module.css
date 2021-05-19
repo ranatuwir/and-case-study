@@ -1,0 +1,31 @@
+
+.questions{
+    align-self: center;
+    padding: 2rem 4rem 4rem 4rem
+}
+
+.faq{
+    margin-top: 10rem;
+}
+
+.header{
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+
+.question{
+   padding-top: 1.5rem;
+   padding-bottom: 1.5rem;
+   font-weight: 400;
+   font-size: 1rem;
+}
+
+.center{
+    text-align: center;
+}
+
+
+
+
+
+  

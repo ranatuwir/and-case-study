@@ -1,0 +1,11 @@
+
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 5rem;
+  }
+
+.padding{
+  margin-top: 4rem;
+}

@@ -1,0 +1,35 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.logo{
+
+  font-size: 2rem;
+  
+}
+
+.li {
+  display: inline;
+  justify-self: right;
+} 
+
+.icon{
+  padding-left: 3rem;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: uppercase;
+    height: 5rem;
+    z-index: 10;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 2rem;
+    background-color: white;
+  }
